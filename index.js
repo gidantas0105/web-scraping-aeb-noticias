@@ -1,3 +1,5 @@
+//Alterando o código para testar comandos git
+
 const puppeteer = require("puppeteer"); // importe o pacote puppeteer
 const palavrasChave = require("./palavrasChave");
 /* Possibilidade: em express.js, incluir no middleware a execução da função scrape
