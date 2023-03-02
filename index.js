@@ -2,6 +2,7 @@
 //Alterando codigo para testar branch
 //Alterando código para testar commit via gitHub
 //Alterando codigo para testar pull para meu repo local
+//Alterando o codigo para testar um push no repo remoto
 
 const puppeteer = require("puppeteer"); // importe o pacote puppeteer
 const palavrasChave = require("./palavrasChave");
