@@ -1,5 +1,6 @@
 //Alterando o código para testar comandos git
 //Alterando codigo para testar branch
+//Alterando código para testar commit via gitHub
 
 const puppeteer = require("puppeteer"); // importe o pacote puppeteer
 const palavrasChave = require("./palavrasChave");
